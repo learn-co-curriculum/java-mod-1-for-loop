@@ -1,8 +1,8 @@
-# The for Statement
+# For Loops
 
 ## Learning Goals
 
-- Use for statements
+- Discuss what a `for` loop is
 
 ## The for Statement in Java
 
